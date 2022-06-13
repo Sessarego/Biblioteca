@@ -99,12 +99,12 @@ header h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.likedislike{
+.sec1{
     display: flex;
     justify-content: center;
 }
 
-.likedislike a{
+.sec1 a{
     padding-right: 15px;
     padding-left: 15px;
     text-decoration: none;
@@ -112,7 +112,7 @@ header h3{
     color: black;
 }
 
-.likedislike :hover{
+.sec1 :hover{
     transform: scale(1.25);
 }
 
