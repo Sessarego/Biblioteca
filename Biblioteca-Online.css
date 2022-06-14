@@ -57,39 +57,13 @@ form input{
     height: 30px;
     text-transform: uppercase;
     cursor: text;
-}
 
 .lupa{
     padding-top: 5px;
     font-size: larger;  
 }
 
-.sec1 h1{
-    color: rgb(73, 72, 72);
-    padding-top: 50px;
-    display: flex;
-    justify-content: center;
-    text-transform: uppercase;
-}
-
-.sec2{
-    padding-top: 10px;
-    display: flex;
-    justify-content: space-around;
-}
-
-.sec3{
-    color: rgb(73, 72, 72);
-    padding-top: 50px;
-    display: flex;
-    justify-content: center;
-    text-transform: uppercase;
-}
-
-.sec4{
-    padding-top: 10px;
-    display: flex;
-    justify-content: space-around;
+ justify-content: space-around;
 }
 
 .footer1{
